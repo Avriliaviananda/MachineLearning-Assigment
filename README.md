@@ -1,4 +1,4 @@
-## Repository praktikum IPSD
+## Repository Machine Learning
 
 <pre>
 Nama : Avrilia Viananda Nagita
